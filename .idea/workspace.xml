@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd062a6-bbeb-4fd7-be43-156c2f2d8ed2" name="Changes" comment="dp">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_19_RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_20_ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_21_MergeTwoSortLists.java" afterDir="false" />
+    <list default="true" id="3cd062a6-bbeb-4fd7-be43-156c2f2d8ed2" name="Changes" comment="daily practice">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/_22_MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/_23_SwapNodesInPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Add2Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Add2Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,46 +43,7 @@
       <recent name="E:\LeetCode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._21_MergeTwoSortLists">
-    <configuration name="MinimumPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.dynamicProgramming.MinimumPathSum" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.dynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.dynamicProgramming.UniquePaths" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.dynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniquePathsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.dynamicProgramming.UniquePathsII" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.dynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._23_SwapNodesInPairs">
     <configuration name="_19_RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode._19_RemoveNthNodeFromEndOfList" />
       <module name="LeetCode" />
@@ -111,13 +70,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_22_MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode._22_MergeKSortedLists" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_22_MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode._22_MergeKSortedLists" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_23_SwapNodesInPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode._23_SwapNodesInPairs" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._23_SwapNodesInPairs" />
+        <item itemvalue="Application._22_MergeKSortedLists" />
+        <item itemvalue="Application._22_MergeKSortedLists (1)" />
         <item itemvalue="Application._21_MergeTwoSortLists" />
         <item itemvalue="Application._19_RemoveNthNodeFromEndOfList" />
-        <item itemvalue="Application.UniquePathsII" />
-        <item itemvalue="Application.MinimumPathSum" />
-        <item itemvalue="Application.UniquePaths" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +135,7 @@
       <workItem from="1687303414644" duration="624000" />
       <workItem from="1687893946591" duration="21000" />
       <workItem from="1693338865776" duration="2321000" />
-      <workItem from="1695399120965" duration="13281000" />
+      <workItem from="1695399120965" duration="24403000" />
     </task>
     <task id="LOCAL-00001" summary="dp">
       <created>1684464965572</created>
@@ -160,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684549781516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="daily practice">
+      <created>1695830909556</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695830909556</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +184,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dp" />
-    <option name="LAST_COMMIT_MESSAGE" value="dp" />
+    <MESSAGE value="daily practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="daily practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,7 +210,22 @@
           <line>83</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/_22_MergeKSortedLists.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/_23_SwapNodesInPairs.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="priorityQueue" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
