@@ -187,7 +187,7 @@
       <workItem from="1736475216515" duration="445000" />
       <workItem from="1736475675071" duration="268000" />
       <workItem from="1736475950776" duration="6440000" />
-      <workItem from="1737062164699" duration="5904000" />
+      <workItem from="1737062164699" duration="6048000" />
     </task>
     <task id="LOCAL-00001" summary="dp">
       <created>1684464965572</created>
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698175173881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="daily practice">
+      <option name="closed" value="true" />
+      <created>1737081907399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737081907399</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,11 +295,6 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/_26_RemoveDuplicateFromSortArray.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LeetCode/_34_Find1stAndLastElement.java</url>
           <line>29</line>
           <option name="timeStamp" value="9" />
@@ -305,11 +308,6 @@
           <url>file://$PROJECT_DIR$/src/LeetCode/_75_SortColors.java</url>
           <line>23</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/_27_RemoveElement.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LeetCode/_05LongestPalindromicSubstring.java</url>

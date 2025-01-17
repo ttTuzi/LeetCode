@@ -18,8 +18,8 @@ public class ContainerWithMostWater {
         while(lp<rp){
             int h =(Math.min(height[lp],height[rp]));
             int w = (rp-lp);
-            int area = (Math.min(height[lp],height[rp]))*(rp-lp);
-            max = Math.max(area,(Math.min(height[lp],height[rp]))*(rp-lp));
+            int area = h * w;
+            max = Math.max(area,max);
             if(height[lp]<height[rp]){
                 lp++;
             }else{

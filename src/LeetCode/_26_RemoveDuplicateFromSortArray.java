@@ -27,7 +27,7 @@ public class _26_RemoveDuplicateFromSortArray {
         //for example:  1,2,2,2,2
         //it will only store 1 in the loop
         //therefore we add last element manually
-        int res = 0;
+        int res = 0;git config --global --add safe.directory D:/LeetCode
         for (int i = 0; i < nums.length-1; i++) {
             if(nums[i]!=nums[i+1]){
                 nums[res]=nums[i];
